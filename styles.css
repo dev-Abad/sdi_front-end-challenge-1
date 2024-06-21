@@ -49,11 +49,12 @@ body {
     color: #000000;
     background-color: transparent;
     font-weight: bold;
-    border: none;
     cursor: pointer;
     border-radius: 4px;
     margin: 0 0 10px;
-    left: 20px; 
+    left: 20px;
+    border: none;
+    text-decoration: underline; 
 }
 
 .read-more-button:hover {
